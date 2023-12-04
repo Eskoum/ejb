@@ -52,9 +52,15 @@ On utilisera EJB pour développer une application de gestion des villes, intégr
  
      (j'ai supprimé la ville Tanger et Casablanca)
 
+     
 
 
-     ![image](https://github.com/Eskoum/ejb/assets/147450023/b5dc59a3-d27f-404b-ba77-fe3d0a6d9777)
+![image](https://github.com/Eskoum/ejb/assets/147450023/12cb93c9-11ef-4067-92e8-deba9b1df240)
+
+
+
+
+
 
 
 
